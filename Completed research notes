@@ -1,5 +1,21 @@
 https://www.quora.com/Which-Python-library-allows-us-to-specify-network-interface-to-connect-to-the-Internet
+Quora:
+Which Python Library allows us to specify network interface to connect to the Internet;
+This site will discuss what could be a good way to handle network interface to connect to the internet. It goes on the say that the use of a socket model would be a good path to take. This will help with handling the Network layer. It gives some sample code to help in the production of interface.
+
 https://www.geeksforgeeks.org/socket-programming-python/
+GeeksforGeeks:
+Socket Programming in Python;
+This is more of a handbook on Python. In this section, it includes building a socket and connecting to the server. It has a very good amount of code to accomplish any task needed in the use of sockets.
+
+
 https://circuitpython.readthedocs.io/en/2.x/docs/library/network.html
+Adafruit CircuitPython:
+Network configuration;
+This site is very good on the discussion of network adapter interfaces. It covers active, connect, disconnect, and status. These are only a few areas that are discussed, this will be a very good resource for any aspect of Network configuration pin the project.
 
 https://tools.ietf.org/html/rfc2460
+IETF:
+IPv6 Specification;
+This site covers all standers of the IPv6. This site was found when looking for the Extension Header standers. It was found that you can exclude a node, but you can not prevent that node from getting the packet. The node will receive the packet and then drop that packet because in the Extension Header you can set it to be dropped by that IP address. This is not what we were looking for, the node needed to be completely avoided.
+
